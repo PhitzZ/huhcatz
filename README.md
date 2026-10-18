@@ -8,3 +8,5 @@ An online cat game featuring multiple mini-games that support both **single-play
 - 👤 **Single-player Mode** - Play solo at your own pace.
 - 👥 **Multiplayer Mode** - Play and compete with other players online.
 - 🎨 Fun and engaging cat-themed experience
+
+## [Play Now](https://phitzz.github.io/huhcatz)
